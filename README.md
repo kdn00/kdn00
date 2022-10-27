@@ -31,7 +31,7 @@
 #### 🕓 Version Control
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### 프로젝트
+### 🖥️ 프로젝트
 ---
 1. 개인 프로젝트
   - [일정 관리 웹사이트](https://github.com/kdn00/Spring-website-learning)
@@ -45,6 +45,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdn00&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=do4329)](https://solved.ac/do4329)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdn00)](https://solved.ac/kdn00)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=kdn00&theme=warm)
+
+### 🗓️ 일일 목표
+---
+1. 개인 프로젝트 한 번 이상 commit하기
+2. 백준 문제 10개 이상 풀기
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=200&section=footer)
