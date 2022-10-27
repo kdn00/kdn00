@@ -31,16 +31,17 @@
 #### 🕓 Version Control
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
 ### 프로젝트
 ---
 1. 개인 프로젝트
-- [일정 관리 웹사이트](https://github.com/kdn00/Spring-website-learning)
+  - [일정 관리 웹사이트](https://github.com/kdn00/Spring-website-learning)
 
 2. 팀 프로젝트
-- [피카츄 육성 게임](https://github.com/kdn00/Pika-Project)
-- [부트스트랩을 활용한 레시피 추천 서비스](https://github.com/2022-SMHRD-KDT-DCX-BIgData-1/recetA)
+  - [피카츄 육성 게임](https://github.com/kdn00/Pika-Project)
+  - [부트스트랩을 활용한 레시피 추천 서비스](https://github.com/2022-SMHRD-KDT-DCX-BIgData-1/recetA)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdn00&&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdn00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdn00&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=200&section=footer)
