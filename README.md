@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdn00&count_bg=%233D3E86&title_bg=%238D8A92&icon=&icon_color=%23E7E7E7&title=kdn00&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=성장하는%20개발자%20김도연입니다.&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=200&section=header&text=성장하는%20개발자%20김도연입니다.&fontSize=50)
 
 
 ### 보유 기술
@@ -35,6 +35,7 @@
 ### 프로젝트
 ---
 1. 개인 프로젝트
+- [일정 관리 웹사이트](https://github.com/kdn00/Spring-website-learning)
 
 2. 팀 프로젝트
 - [피카츄 육성 게임](https://github.com/kdn00/Pika-Project)
