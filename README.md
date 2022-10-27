@@ -44,4 +44,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdn00&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=do4329)](https://solved.ac/do4329)
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=200&section=footer)
