@@ -34,7 +34,7 @@
 ### 🖥️ 프로젝트
 ---
 1. 개인 프로젝트
-  - [일정 관리 웹사이트](https://github.com/kdn00/Spring-website-learning)
+  - [일정 관리 웹사이트_진행중](https://github.com/kdn00/Spring-website-learning)
 
 2. 팀 프로젝트
   - [피카츄 육성 게임](https://github.com/kdn00/Pika-Project)
