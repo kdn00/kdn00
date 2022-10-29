@@ -38,7 +38,7 @@
 
 2. 팀 프로젝트
   - [피카츄 육성 게임](https://github.com/kdn00/Pika-Project)
-  - [부트스트랩을 활용한 레시피 추천 서비스](https://github.com/2022-SMHRD-KDT-DCX-BIgData-1/recetA)
+  - [부트스트랩을 활용한 레시피 추천 서비스](https://github.com/kdn00/recetA)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdn00&&show_icons=true&theme=tokyonight)
 
