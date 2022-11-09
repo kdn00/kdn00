@@ -39,6 +39,7 @@
 2. 팀 프로젝트
   - [피카츄 육성 게임](https://github.com/kdn00/Pika-Project)
   - [부트스트랩을 활용한 레시피 추천 서비스](https://github.com/kdn00/recetA)
+  - [병충해 정보 예측 및 관리 서비스_문서작업 중]()
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdn00&&show_icons=true&theme=tokyonight)
 
@@ -47,9 +48,10 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdn00)](https://solved.ac/kdn00)
 
-### 🗓️ 일일 목표
+<!-- ### 🗓️ 일일 목표
 ---
 1. 개인 프로젝트 한 번 이상 commit하기
 2. 백준 문제 10개 이상 풀기
-
+ -->
+ 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=200&section=footer)
