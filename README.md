@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20&height=200&section=header&text=Java와%20SQL을%20다루는%20개발자&fontSize=50)
 
-## 백엔드 개발자로서 Java, Python과 JDBC 기술을 활용해 백엔드 역량을 키워나가는 중입니다.
+## Java, Python, DB를 활용해 백엔드 개발자로서 역량을 키워나가는 중입니다.
 
 
 ## 📋 보유 기술
