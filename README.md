@@ -1,9 +1,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdn00&count_bg=%233D3E86&title_bg=%238D8A92&icon=&icon_color=%23E7E7E7&title=kdn00&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=200&section=header&text=성장하는%20개발자%20김도연입니다.&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20&height=200&section=header&text=Java와%20Spring을%20다루는%20개발자&fontSize=50)
+
+## 백엔드 개발자로서 Java, Python과 JDBC 기술을 활용해 백엔드 역량을 키워나가는 중입니다.
 
 
-### 📋 보유 기술
+## 📋 보유 기술
 ---
 
 ### 주 기술
@@ -64,12 +66,12 @@
 #### 🕓 Version Control
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) -->
 
-### 🖥️ 프로젝트
+## 🖥️ 프로젝트
 ---
-1. 개인 프로젝트
+### 1. 개인 프로젝트
   - [일정 관리 웹사이트_진행중](https://github.com/kdn00/SpringProject)
 
-2. 팀 프로젝트
+### 2. 팀 프로젝트
   - [피카츄 육성 게임](https://github.com/kdn00/Pika-Project)
   - [부트스트랩을 활용한 레시피 추천 서비스](https://github.com/kdn00/recetA)
   - [병충해 정보 예측 및 관리 서비스_진행중](https://github.com/2022-SMHRD-KDT-DCX-BIgData-1/Alsseulnongjab)
@@ -87,4 +89,4 @@
 2. 백준 문제 10개 이상 풀기
  -->
  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=200&section=footer)
+<!-- ![Footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20&height=200&section=footer) -->
