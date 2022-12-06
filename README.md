@@ -76,10 +76,10 @@
   - [부트스트랩을 활용한 레시피 추천 서비스](https://github.com/kdn00/recetA)
   - [병충해 정보 예측 및 관리 서비스_진행중](https://github.com/2022-SMHRD-KDT-DCX-BIgData-1/Alsseulnongjab)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdn00&&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdn00&&show_icons=true)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdn00&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdn00&theme=tokyonight)](https://github.com/kdn00/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdn00&layout=compact&theme=tokyonight)](https://github.com/kdn00/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdn00)](https://github.com/kdn00/github-readme-stats)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdn00)](https://solved.ac/kdn00)
