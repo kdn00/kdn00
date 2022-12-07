@@ -78,7 +78,8 @@
 
 [![recetA 프로젝트 카드](https://user-images.githubusercontent.com/89984853/206095412-62464b58-7403-41cf-a0de-d1c46e3eb399.png)](https://github.com/kdn00/recetA)
 
-[병충해 정보 예측 및 관리 서비스_진행중](https://github.com/2022-SMHRD-KDT-DCX-BIgData-1/Alsseulnongjab)
+[![알쓸농잡 카드](https://user-images.githubusercontent.com/89984853/206100764-73a743eb-da73-4a2e-a894-e9980053e9f8.png)
+](https://github.com/2022-SMHRD-KDT-DCX-BIgData-1/Alsseulnongjab)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdn00&&show_icons=true)
 
