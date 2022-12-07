@@ -73,7 +73,7 @@
   - [일정 관리 웹사이트_진행중](https://github.com/kdn00/SpringProject) -->
 
 ### 팀 프로젝트
-  - [피카츄 육성 게임](https://github.com/kdn00/Pika-Project)
+[![캐릭터 키우기 게임 카드](https://user-images.githubusercontent.com/89984853/206081217-a65e8143-bd69-42ed-bceb-6073d8e7f120.png)](https://github.com/kdn00/Pika-Project)
   - [부트스트랩을 활용한 레시피 추천 서비스](https://github.com/kdn00/recetA)
   - [병충해 정보 예측 및 관리 서비스_진행중](https://github.com/2022-SMHRD-KDT-DCX-BIgData-1/Alsseulnongjab)
 
