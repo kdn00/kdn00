@@ -5,7 +5,7 @@
 ## Java, Python, DB를 활용해 백엔드 개발자로서 역량을 키워나가는 중입니다.
 
 
-## 📋 보유 기술
+<!-- ## 📋 보유 기술
 ---
 
 ### 주 기술
@@ -37,7 +37,7 @@
 ### 학습한 기술
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)   
-머신러닝, 딥러닝, 크롤링
+머신러닝, 딥러닝, 크롤링 -->
 
 
 <!-- 
@@ -66,12 +66,13 @@
 #### 🕓 Version Control
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) -->
 
-## 🖥️ 프로젝트
 ---
-### 1. 개인 프로젝트
-  - [일정 관리 웹사이트_진행중](https://github.com/kdn00/SpringProject)
 
-### 2. 팀 프로젝트
+## 🖥️ 프로젝트
+<!-- ### 1. 개인 프로젝트
+  - [일정 관리 웹사이트_진행중](https://github.com/kdn00/SpringProject) -->
+
+### 팀 프로젝트
   - [피카츄 육성 게임](https://github.com/kdn00/Pika-Project)
   - [부트스트랩을 활용한 레시피 추천 서비스](https://github.com/kdn00/recetA)
   - [병충해 정보 예측 및 관리 서비스_진행중](https://github.com/2022-SMHRD-KDT-DCX-BIgData-1/Alsseulnongjab)
