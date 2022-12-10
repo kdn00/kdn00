@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdn00&count_bg=%233D3E86&title_bg=%238D8A92&icon=&icon_color=%23E7E7E7&title=kdn00&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20&height=200&section=header&text=Java와%20SQL을%20다루는%20개발자&fontSize=50)
 
 ## Java, Python, DB를 활용해 백엔드 개발자로서 역량을 키워나가는 중입니다.
@@ -74,7 +72,7 @@
 
 ### 팀 프로젝트
 #### 이미지 클릭시 해당 프로젝트의 포트폴리오로 이동됩니다.
-[![캐릭터 키우기 게임 카드](https://user-images.githubusercontent.com/89984853/206081217-a65e8143-bd69-42ed-bceb-6073d8e7f120.png)](https://github.com/kdn00/Pika-Project)
+[![캐릭터 키우기 게임 카드](https://user-images.githubusercontent.com/89984853/206081217-a65e8143-bd69-42ed-bceb-6073d8e7f120.png)](https://github.com/kdn00/Mini-Project)
 
 [![recetA 프로젝트 카드](https://user-images.githubusercontent.com/89984853/206095412-62464b58-7403-41cf-a0de-d1c46e3eb399.png)](https://github.com/kdn00/recetA)
 
