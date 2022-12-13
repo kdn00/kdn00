@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20&height=200&section=header&text=Java와%20SQL을%20다루는%20개발자&fontSize=50)
 
-## Java, Python, DB를 학습하며 백엔드 개발자로서 역량을 키워나가는 중입니다.
-
-
 <!-- ## 📋 보유 기술
 ---
 
@@ -72,12 +69,11 @@
 
 ### 팀 프로젝트
 #### 이미지 클릭시 해당 프로젝트의 포트폴리오로 이동됩니다.
-[![캐릭터 키우기 게임 카드](https://user-images.githubusercontent.com/89984853/206081217-a65e8143-bd69-42ed-bceb-6073d8e7f120.png)](https://github.com/kdn00/Mini-Project)
+[![1](https://user-images.githubusercontent.com/89984853/207268344-da71f361-0d95-4402-a036-d2901ac02213.png)](https://github.com/kdn00/Mini-Project)
 
-[![recetA 프로젝트 카드](https://user-images.githubusercontent.com/89984853/206095412-62464b58-7403-41cf-a0de-d1c46e3eb399.png)](https://github.com/kdn00/recetA)
+[![2](https://user-images.githubusercontent.com/89984853/207268385-b202daf0-ae2d-42fc-8db7-21d265b50d15.png)](https://github.com/kdn00/recetA)
 
-[![알쓸농잡 카드](https://user-images.githubusercontent.com/89984853/206100764-73a743eb-da73-4a2e-a894-e9980053e9f8.png)
-](https://github.com/kdn00/Alsseulnongjab)
+[![알쓸농잡 카드](https://user-images.githubusercontent.com/89984853/206100764-73a743eb-da73-4a2e-a894-e9980053e9f8.png)](https://github.com/kdn00/Alsseulnongjab)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdn00&&show_icons=true)
 
