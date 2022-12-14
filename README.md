@@ -1,6 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20&height=200&section=header&text=Java와%20SQL을%20다루는%20개발자&fontSize=50)
+![1](https://user-images.githubusercontent.com/89984853/207480892-6ad29162-548b-4d23-96c7-545d3db90ed8.jpg)
 
-<!-- ## 📋 보유 기술
+
+
+<!-- 
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20&height=200&section=header&text=Java와%20SQL을%20다루는%20개발자&fontSize=50)
+## 📋 보유 기술
 ---
 
 ### 주 기술
@@ -69,6 +73,13 @@
 
 ### 팀 프로젝트
 #### 이미지 클릭시 해당 프로젝트의 포트폴리오로 이동됩니다.
+[![2](https://user-images.githubusercontent.com/89984853/207481081-59486da2-d2af-47e2-bc4a-640ad0667ad1.jpg)](https://github.com/kdn00/Mini-Project)
+[![4](https://user-images.githubusercontent.com/89984853/207481096-4fb628ea-f9a5-4431-a74a-e950d3b08e34.jpg)](https://github.com/kdn00/recetA)
+[![6](https://user-images.githubusercontent.com/89984853/207481106-c911e470-5e4d-4526-a034-af2c98f316d6.jpg)](https://github.com/kdn00/Alsseulnongjab)
+
+
+
+<!--
 [![1](https://user-images.githubusercontent.com/89984853/207268344-da71f361-0d95-4402-a036-d2901ac02213.png)](https://github.com/kdn00/Mini-Project)
 
 [![2](https://user-images.githubusercontent.com/89984853/207268385-b202daf0-ae2d-42fc-8db7-21d265b50d15.png)](https://github.com/kdn00/recetA)
@@ -77,7 +88,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdn00&&show_icons=true)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdn00&layout=compact&theme=tokyonight)](https://github.com/kdn00/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdn00&layout=compact&theme=tokyonight)](https://github.com/kdn00/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdn00)](https://github.com/kdn00/github-readme-stats)
 
 [![Solved.ac
