@@ -1,6 +1,4 @@
-![1](https://user-images.githubusercontent.com/89984853/207480892-6ad29162-548b-4d23-96c7-545d3db90ed8.jpg)
-
-
+![김도연 포트폴리오](https://user-images.githubusercontent.com/89984853/208933051-0db2db88-7083-45a8-9f62-e0c63ec2c133.jpg)
 
 <!-- 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20&height=200&section=header&text=Java와%20SQL을%20다루는%20개발자&fontSize=50)
