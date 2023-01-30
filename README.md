@@ -73,7 +73,7 @@
 #### 이미지 클릭시 해당 프로젝트의 포트폴리오로 이동됩니다.
 [![2](https://user-images.githubusercontent.com/89984853/207481081-59486da2-d2af-47e2-bc4a-640ad0667ad1.jpg)](https://github.com/kdn00/Mini-Project)
 [![4](https://user-images.githubusercontent.com/89984853/207481096-4fb628ea-f9a5-4431-a74a-e950d3b08e34.jpg)](https://github.com/kdn00/recetA)
-[![6](https://user-images.githubusercontent.com/89984853/207481106-c911e470-5e4d-4526-a034-af2c98f316d6.jpg)](https://github.com/kdn00/Alsseulnongjab)
+[![3차](https://user-images.githubusercontent.com/89984853/215447191-174d9802-06c7-467c-8ac0-15d9d311e6a2.jpg)](https://github.com/kdn00/Alsseulnongjab)
 
 
 
