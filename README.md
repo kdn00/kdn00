@@ -1,4 +1,4 @@
-![김도연 포트폴리오](https://user-images.githubusercontent.com/89984853/208933051-0db2db88-7083-45a8-9f62-e0c63ec2c133.jpg)
+![김도연 포트폴리오](https://user-images.githubusercontent.com/89984853/215446457-d826ec8e-d748-4920-ae1b-928299645bd7.jpg)
 
 <!-- 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20&height=200&section=header&text=Java와%20SQL을%20다루는%20개발자&fontSize=50)
@@ -89,14 +89,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdn00&layout=compact&theme=tokyonight)](https://github.com/kdn00/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdn00)](https://github.com/kdn00/github-readme-stats)
 
+<!-- 
+백준 티어
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdn00)](https://solved.ac/kdn00)
-
-
-<!-- ### 🗓️ 일일 목표
+### 🗓️ 일일 목표
 ---
 1. 개인 프로젝트 한 번 이상 commit하기
-2. 백준 문제 10개 이상 풀기
+2. 백준 문제 1개 이상 풀기
+
  -->
  
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20&height=200&section=footer) -->
