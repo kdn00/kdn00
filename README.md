@@ -1,6 +1,6 @@
-![김도연 포트폴리오](https://user-images.githubusercontent.com/89984853/215446457-d826ec8e-d748-4920-ae1b-928299645bd7.jpg)
+<!-- ![김도연 포트폴리오](https://user-images.githubusercontent.com/89984853/215446457-d826ec8e-d748-4920-ae1b-928299645bd7.jpg)
 
-<!-- 
+
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20&height=200&section=header&text=Java와%20SQL을%20다루는%20개발자&fontSize=50)
 ## 📋 보유 기술
 ---
