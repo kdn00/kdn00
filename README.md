@@ -1,4 +1,4 @@
-<!-- ![김도연 포트폴리오](https://user-images.githubusercontent.com/89984853/215446457-d826ec8e-d748-4920-ae1b-928299645bd7.jpg) -->
+<!-- ![김도연 포트폴리오](https://user-images.githubusercontent.com/89984853/215446457-d826ec8e-d748-4920-ae1b-928299645bd7.jpg) 
 
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20&height=200&section=header&text=Java와%20SQL을%20다루는%20개발자&fontSize=50)
@@ -63,7 +63,7 @@
 #### 🕓 Version Control
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) -->
 
-
+<!--
 ---
 
 ## 🖥️ 프로젝트
@@ -78,7 +78,7 @@
 -->
 
 
-
+<!--
 [![1](https://user-images.githubusercontent.com/89984853/207268344-da71f361-0d95-4402-a036-d2901ac02213.png)](https://github.com/kdn00/Mini-Project)
 
 [![2](https://user-images.githubusercontent.com/89984853/207268385-b202daf0-ae2d-42fc-8db7-21d265b50d15.png)](https://github.com/kdn00/recetA)
